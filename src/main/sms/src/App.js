@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Department from "./Components/Department";
 import Student from "./Components/Student";
@@ -25,6 +24,7 @@ function App() {
               filter: "blur(20px)",
               zindex: "-1",
             }}
+            alt="background"
           ></img>
         </div>
         <div
