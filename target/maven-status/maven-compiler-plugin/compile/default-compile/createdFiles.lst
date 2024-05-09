@@ -1,0 +1,17 @@
+com\sms\controller\DepartmentController.class
+com\sms\repo\SubjectRepository.class
+com\sms\repo\SemesterRepository.class
+com\sms\repo\StudentRepository.class
+com\sms\model\Mark.class
+com\sms\controller\SemesterController.class
+com\sms\StudentManagementSystemApplication.class
+com\sms\controller\MarkController.class
+com\sms\controller\StudentController.class
+com\sms\repo\DepartmentRepository.class
+com\sms\model\Department.class
+com\sms\model\Semester.class
+com\sms\ServletInitializer.class
+com\sms\model\Subject.class
+com\sms\model\Student.class
+com\sms\controller\SubjectController.class
+com\sms\repo\MarkRepository.class
